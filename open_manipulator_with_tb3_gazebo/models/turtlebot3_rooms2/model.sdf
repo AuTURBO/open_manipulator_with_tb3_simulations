@@ -21,7 +21,7 @@
         <pose frame=''>0 0 -0.025 0 -0 0</pose>
         <geometry>
           <box>
-            <size>0.3 0.3 0.3</size>
+            <size>0.3 0.3 0.33</size>
           </box>
         </geometry>
         <material>
@@ -45,7 +45,7 @@
         <pose frame=''>0 0 -0.025 0 -0 0</pose>
         <geometry>
           <box>
-            <size>0.3 0.3 0.3</size>
+            <size>0.3 0.3 0.33</size>
           </box>
         </geometry>
         <surface>
@@ -527,7 +527,7 @@
     </model>
     <model name='small_beer'>
       <link name='link'>
-        <pose frame=''>0 0.02 0 0 -0 0</pose>
+        <pose frame=''>0 0.02 0.015 0 -0 0</pose>
         <inertial>
           <mass>0.01</mass>
           <inertia>
