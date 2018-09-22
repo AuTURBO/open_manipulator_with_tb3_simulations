@@ -1,0 +1,14 @@
+material bot11
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture bot11.jpg
+      }
+    }
+  }
+}
+
