@@ -1,0 +1,15 @@
+material dog/Diffuse
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture dog.png
+        filtering anistropic
+        max_anisotropy 16
+      }
+    }
+  }
+}
